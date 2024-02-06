@@ -13,8 +13,8 @@ to operate within the optimal temperature range of 55 to 60 °C.
 
 ## Implementation is done on:
 
-1. **MATLAB Implementation**: MATLAB R2023b
+1. **MATLAB**: MATLAB R2023b
 
-2. **Python Implmentation**: Python with TensorFlow and Keras API
+2. **Python**: Python with TensorFlow and Keras API
 
 Refer to respective README.md for further instructions.
