@@ -1,23 +1,20 @@
-# MATLAB Implementation
-MATLAB Version: 23.2.0.2459199 (R2023b) Update 5
+# Development-of-an-AI-model-to-predict-Polymer-Electrolyte-Membrane-Fuel-Cell-PEMFC-Performance
 
-Operating System: Microsoft Windows 10 Home Version 10.0 (Build 19045)
+A Polymer Electrolyte Membrane Fuel Cell (PEMFC) is an electrochemical device which directly converts
+the chemical energy found in hydrogen into electricity, also known as a hydrogen fuel cell.
+This project focuses on the S-8 Duralite Power Fuel Cell Stack, with consideration
+of design parameters like channel dimensions and operating parameters such as ambient temperature,
+heat generation, and input air velocity.
 
-Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+This repository contains code used to to develop optimised AI models that predict the pressure drop 
+and temperature of the PEMFC stack given as set of input parameters. It also includes code that is able 
+to quantify physical parameters that result in the lowest PEMFC pressure drop while allowing the PEMFC 
+to operate within the optimal temperature range of 55 to 60 °C.
 
-## Requirements
-- MATLAB
-- Deep Learning Toolbox
-- Global Optimization Toolbox
-- Optimization Toolbox
-- Parallel Computing Toolbox
-- Statistics and Machine Learning Toolbox
+## Implementation is done on:
 
-## Brief description of code
-1. **Data Preprocessing**: Data visualisation and data preprocessing files (includes PCA, F-Tests, mRMR and RReliefF)
-2. **Obtain CSV Files**: Splits data into 70:15:15 ratio to use for training
-3. **ML**: Machine learning files (using Regression Learner App)
-4. **Shallow Pressure and Shallow Temperature**: Training of shallow NN for pressure and temperature targets respectively
-5. **Input Optimisation**: Input optimisation files (using baysopt, interior point, random and grid search)
-6. **NN from scratch**: Creating NN from scratch to compare with MATLAB ```train()``` function
-7. **Final Report Appendix**: Files included in final report appendix
+1. **MATLAB**: MATLAB R2023b
+
+2. **Python**: Python with TensorFlow and Keras API
+
+Refer to respective README.md for further instructions.
