@@ -14,9 +14,10 @@ Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit
 - Statistics and Machine Learning Toolbox
 
 ## Brief description of code
-
-1. **motor_joy**: for controlling motors and robot using joystick
-
-2. **motor_msgs**: custom ROS msg for in-house arm 
-
-3. **steadywin_arduino**: arduino code for controlling steadywin motors
+1. **Data Preprocessing**: Data visualisation and data preprocessing files (includes PCA, F-Tests, mRMR and RReliefF)
+2. **Obtain CSV Files**: Splits data into 70:15:15 ratio to use for training
+3. **ML**: Machine learning files (using Regression Learner App)
+4. **Shallow Pressure and Shallow Temperature**: Training of shallow NN for pressure and temperature targets respectively
+5. **Input Optimisation**: Input optimisation files (using baysopt, interior point, random and grid search)
+6. **NN from scratch**: Creating NN from scratch to compare with MATLAB ```train()``` function
+7. **Final Report Appendix**: Files included in final report appendix
