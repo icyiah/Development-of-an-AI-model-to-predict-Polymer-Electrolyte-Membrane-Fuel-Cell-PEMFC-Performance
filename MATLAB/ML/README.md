@@ -4,8 +4,7 @@ This folder contains all the MATLAB files used to train machine learning models 
 ## Brief description of code
 1. **RLApp**: File used to format data to be used for Regression Learner App
 2. **resultsTable .csv**: csv files containing results for test set and combined sets
-3. **Pressure_Feature_Importance**: Ranking feature important with respect to pressure target
-4. **sess .mat**: Saved sessions for regression learner app
+3. **sess .mat**: Saved sessions for regression learner app
 
 Remaining files are helper functions and data files
 
