@@ -2,9 +2,8 @@
 This folder contains all the MATLAB files used to implement deep NN for temperature and pressure targets
 
 ## Brief description of code
-1. **RLApp**: File used to format data to be used for Regression Learner App
-2. **resultsTable .csv**: csv files containing results for test set and combined sets
-3. **sess .mat**: Saved sessions for regression learner app
+1. **DL_Temp_v1.mat** and **Pressure_Temp_v1.mat**: File that configures experiment
+2. **Output.mlx**: Show the training history and true vs pred plots of a model
 
 Remaining files are helper functions and data files
 
