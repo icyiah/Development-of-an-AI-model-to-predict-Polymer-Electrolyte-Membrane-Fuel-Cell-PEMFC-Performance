@@ -2,10 +2,11 @@
 This folder contains all the MATLAB files used to implement deep NN for temperature and pressure targets
 
 ## Brief description of code
-1. **DL_Temp_v1.mat** and **Pressure_Temp_v1.mat**: File that configures experiment
-2. **Output.mlx**: Show the training history and true vs pred plots of a model
+1. **pressure_DL_v3** and **temp_DL_v3**: folders containing MATLAB projects for pressure and temperature deep learning experiments
+2. **Pressure_Temp_v1.mat** and **DL_Temp_v1.mat**: File that configures experiment
+3. **Output.mlx**: Show the training history and true vs pred plots of a model
 
-Remaining files are helper functions and data files
+Remaining files are helper functions, data files and files to obtain model metrics during training
 
 ## Instructions
 1. Open pressure_DL_v3 or temp_DL_v3 as a project in MATLAB
