@@ -14,5 +14,5 @@ Remaining files are helper functions, data files and files to obtain model metri
 3. Open the pressure_DL_v3 or temp_DL_v3 project within the experiment manager app. Use the app to view previous results or run new trials
 ## To view the results of a model
 1. Load the temp_DL.mat or pressure_DL.mat file into the MATLAB workspace (or export a new model from experiment manager app, make sure to rename the model and traininfo files)
-2. Open the Output.mlx live script and change the '''MiniBatchSize''' variable to match the minibatch size used for training
+2. Open the Output.mlx live script and change the ```MiniBatchSize``` variable to match the minibatch size used for training
 3. Run as a live script to view results
