@@ -11,4 +11,4 @@ Remaining files are helper functions and data files
 ## Instructions
 1. Run RLApp script to obtain dataset in MATLAB workspace
 2. Open regression learner app and use datasets in workspace to train and test machine learning models
-3. Open sess .mat files in regression learner app to view saved sessions
+3. Open sess .mat files in regression learner app to view previously saved sessions
