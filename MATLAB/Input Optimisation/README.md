@@ -1,5 +1,5 @@
 # Input Optimisation
-This folder contains all the MATLAB files used to find the optimal set of input paramters for the PEMFC. This optimial set should reduce the pressure drop while keeping the temperature within the optimal range.
+This folder contains all the MATLAB files used to find the optimal set of input paramters for the PEMFC. This optimial set should reduce the pressure drop while keeping the temperature within the optimal range of 55-60 degC.
 
 ## Brief description of code
 1. **input_bayesian.mlx**: Run Bayesian optimisation to find optimal set of input paramters
