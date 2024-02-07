@@ -2,8 +2,8 @@
 This folder contains all the MATLAB files used to implement shallow NN for pressure target
 
 ## Brief description of code
-1. **Evaluate_Best_Model.mlx**: Show the training history and true vs pred plots of a model
-2. **use_bayesopt.mlx**: Run Bayesian optimisation together with the '''train()''' function to obtain the best model
+1. **use_bayesopt.mlx**: Run Bayesian optimisation together with the ```train()``` function to obtain the best model
+2. **Evaluate_Best_Model.mlx**: Show the training history and true vs pred plots of a model
 
 Remaining files are data files
 
