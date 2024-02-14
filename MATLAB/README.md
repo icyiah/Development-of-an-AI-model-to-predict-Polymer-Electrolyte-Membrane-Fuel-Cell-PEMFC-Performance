@@ -22,5 +22,6 @@ Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit
 6. **Input Optimisation**: Input optimisation files (using baysopt, interior point, random and grid search)
 7. **NN from scratch**: Creating NN from scratch to compare with MATLAB ```train()``` function
 8. **Final Report Appendix**: Files included in final report appendix
+9. **App**: MATLAB based app designed to enable users to find the optimal PEMFC parameters
 
 Refer to respective README.md for further instructions.
