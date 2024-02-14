@@ -8,6 +8,6 @@ This folder contains all the MATLAB files used to implement an app designed to e
 Remaining files are images and data files
 
 ## Instructions
-1. Open App_v2.mlapp and click run to run the optimisation and export to export the results.
+1. Open App_v2.mlapp and click **run** to run the optimisation and **export** to export the results.
 
 A detailed demonstation can be found here: https://youtu.be/l-WPFwMoqlI
