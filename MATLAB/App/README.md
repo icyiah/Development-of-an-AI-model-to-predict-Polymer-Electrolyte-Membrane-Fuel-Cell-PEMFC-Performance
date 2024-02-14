@@ -1,14 +1,13 @@
 # App
-This folder contains all the MATLAB files used to implement an application in MATLAB to be used 
+This folder contains all the MATLAB files used to implement an app designed to enable users to find the optimal PEMFC parameters
 
 ## Brief description of code
-1. **use_bayesopt.mlx**: Run Bayesian optimisation together with the ```train()``` function to obtain the best model
-2. **Evaluate_Best_Model.mlx**: Show the training history and true vs pred plots of a model
+1. **App_v2.mlapp**: Code used to create app
+2. **Channel_Dimensions.csv**: csv file containing exported channel dimensions (this can be imported into a fusion 360 to adjust the size of a CAD model of a PEMFC)
 
-Remaining files are data files
+Remaining files are images and data files
 
 ## Instructions
-1. Open use_bayesopt.mlx and run as a live script to start a new trial
-2. To view previous trial, load bayesopt_trial_1.mat into the workspace
-## To view the results of a model
-1. Open Evaluate_Best_Model.mlx and run as a live script to view model results
+1. Open App_v2.mlapp and click run to run the optimisation and export to export the results.
+
+A detailed demonstation can be found here: https://youtu.be/l-WPFwMoqlI
