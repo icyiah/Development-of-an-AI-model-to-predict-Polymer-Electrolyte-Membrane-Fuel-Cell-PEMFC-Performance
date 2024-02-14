@@ -1,0 +1,44 @@
+Width,mm,1.3 mm
+Length,mm,39.24 mm
+Height,mm,1.43 mm
+d34,mm,Width * 99
+d35,mm,Length
+d36,mm,1 mm
+d37,mm,3 mm
+d38,deg,0.0 deg
+d39,mm,Length
+d40,,100
+d41,,1
+d42,mm,Width
+d43,mm,0.00 mm
+d44,mm,Width * 99
+d45,mm,Width * 99
+d46,mm,Height
+d47,deg,0.0 deg
+d48,mm,-0.5 mm
+d49,deg,0.0 deg
+d50,,1
+d51,mm,1 mm
+d52,mm,-2.7 mm
+d53,deg,0.0 deg
+d54,mm,Width * 99
+d55,mm,Length
+d56,mm,1 mm
+d59,mm,1 mm
+d60,mm,1 mm
+d61,mm,Width * 16.5
+d62,mm,Length / 2 - 2 mm
+d63,mm,Width * 16.5
+d64,mm,Length - 4 mm
+d65,mm,d63
+d66,mm,d64
+d67,mm,d63
+d68,mm,d64
+d69,mm,d67
+d70,mm,d62
+d71,mm,d65
+d72,mm,2 mm
+d73,mm,0.5 mm
+d74,deg,0.0 deg
+d75,mm,-0.5 mm
+d76,deg,0.0 deg
