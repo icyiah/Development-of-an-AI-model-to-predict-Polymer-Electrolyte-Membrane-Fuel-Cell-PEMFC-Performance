@@ -1,4 +1,4 @@
-# Development-of-an-AI-model-to-predict-Polymer-Electrolyte-Membrane-Fuel-Cell-PEMFC-Performance
+# Development of an AI model to predict Polymer Electrolyte Membrane Fuel Cell PEMFC Performance
 
 A Polymer Electrolyte Membrane Fuel Cell (PEMFC) is an electrochemical device which directly converts
 the chemical energy found in hydrogen into electricity, also known as a hydrogen fuel cell.
